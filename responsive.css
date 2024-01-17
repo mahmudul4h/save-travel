@@ -1,0 +1,5 @@
+@media screen and(max-width: 676px) {
+   .banner-section{
+    flex-direction: column;
+   } 
+}
